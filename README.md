@@ -17,6 +17,6 @@ A relational database system designed to centralize and manage historic building
 ![ERD Diagram](https://github.com/WesamJaffal-collab/Heritage-Building-Database/blob/main/Images/ERD.jpg)
 
 ### Relational Schema
-![ER Diagram](Images/ERD.png)
+![ER Diagram](Images/ERD.jpg)
 ### Relational Schema
-![Schema Diagram](Images/Schema.png)
+![Schema Diagram](Images/schema.jpg)

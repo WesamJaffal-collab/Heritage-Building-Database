@@ -13,7 +13,10 @@ A relational database system designed to centralize and manage historic building
 
 ## 🖼️ Database Models
 ### Entity-Relationship Diagram (ERD)
-![ER Diagram](https://github.com/WesamJaffal-collab/Heritage-Building-Database/blob/main/Images/ERD.jpg?raw=true)
+### Entity-Relationship Diagram (ERD)
+![ERD Diagram](https://github.com/WesamJaffal-collab/Heritage-Building-Database/blob/main/Images/ERD.jpg)
 
+### Relational Schema
+[Click here to view the Relational Schema](https://github.com/WesamJaffal-collab/Heritage-Building-Database/blob/main/Images/Schema.png)
 ### Relational Schema
 ![Schema Diagram](Images/Schema.png)

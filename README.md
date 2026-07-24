@@ -13,7 +13,7 @@ A relational database system designed to centralize and manage historic building
 
 ## 🖼️ Database Models
 ### Entity-Relationship Diagram (ERD)
-![ER Diagram](images/ERD.png)
+![ER Diagram](Images/ERD.png)
 
 ### Relational Schema
-![Schema Diagram](images/Schema.png)
+![Schema Diagram](Images/Schema.png)

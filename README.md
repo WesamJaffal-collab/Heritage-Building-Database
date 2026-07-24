@@ -14,5 +14,4 @@ A relational database system designed to centralize and manage historic building
 ## 🖼️ Database Models
 ### Entity-Relationship Diagram (ERD)
 ### Entity-Relationship Diagram (ERD)
-![ERD Diagram](https://github.com/WesamJaffal-collab/Heritage-Building-Database/blob/main/Images/ERD.jpg)
 
